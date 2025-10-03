@@ -26,7 +26,7 @@
     - [x] "b" < "A"
     - [x] true === false
     - [x] true != true
-  - [ ] c) Make the string → `"Hi There! It's "sunny" out"`
+  - [x] c) Make the string → `"Hi There! It's "sunny" out"`
 
 - [x] **Ex. 4.1.2 (*) – Evaluate**
   - [x] a) Add two variables `firstName` and `lastName`
