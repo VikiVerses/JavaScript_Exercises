@@ -1,11 +1,10 @@
 # The Flatmate Chore Board
 
-Mini story: You and two flatmates share a small apartment. Every week you rotate chores  
-(dishes, vacuum, take out trash, buy groceries, water plants, clean bathroom).  
+Mini story: You share a small apartment with some roommates. Every week you rotate chores (dishes, vacuum, take out trash, buy groceries, water plants, clean bathroom).  
 Each chore has an estimated time (minutes per week) and a **done** flag for whether it’s completed this week.  
 You want a tiny script that:
 
-- Stores chores and flatmates (arrays of objects),
+- Stores chores and flatmates,
 - Lists incomplete chores and total time required,
 - Assigns chores fairly using a loop,
 - Models a **Roommate** as a class with a method to compute their weekly **load**.
